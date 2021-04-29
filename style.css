@@ -1,0 +1,35 @@
+	h1{
+		color:wheat;
+	}
+
+
+	.header{
+		background-color:cadetblue;
+		font-size:25px;
+		font: arial;
+		padding:20px;	
+		display:flex;
+		justify-content:center;
+	}
+
+	
+
+	.grid{
+		background-color:white;
+		padding:50px;
+		display:flex;
+		flex-wrap:wrap;
+        justify-content:space-evenly;
+	}
+
+	.instruction{
+		background-color:white;
+		display:flex;
+		
+	}
+
+
+	.footer{
+		display:flex;
+		justify-content:flex-end;
+	}
